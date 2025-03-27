@@ -1,0 +1,18 @@
+H1{color: blue;
+   font-family: comic sans ms;
+  }
+li{
+   font-size: 20px;
+  font-family: comic sans ms;
+}
+a{
+   font-size: 20px;
+  font-family: comic sans ms;
+}
+p {
+    color:teal;/*Cor do parágrafo*/
+    font-family: comic sans ms;
+    font-size: 15px;
+    font-weight: bold;
+
+<link rel="stylesheet" href="torta.css">
